@@ -5,6 +5,8 @@
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=JavaScript)
 
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=appveyor)
+
 
 <!--
 **anival-github/anival-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
