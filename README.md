@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Valentin Anikin**!
 ## I'm a *Front-end developer* from Minsk, Belarus.
-### Check my [CV](https://anival-github.github.io/cv/resume/)
+### You can find my [CV](https://anival-github.github.io/cv/resume/) here
 ### Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
