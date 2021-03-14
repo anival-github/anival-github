@@ -4,7 +4,7 @@
 ### Languages and Technologies
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
-![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=ReactJS)
+![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 
 
 <!--
