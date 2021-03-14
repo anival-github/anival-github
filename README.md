@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hi, my name is **Valentin Anikin**!
+## I'm a *Front-end developer* from Minsk, Belarus.
+### Check my [CV](https://anival-github.github.io/cv/resume/)
+### Languages and Technologies
+
+![JAVASCRIPT](https://img.shields.io/static/v1?message=JAVASCRIPT&color=yellow&style=flat&logo=appveyor)
+
 
 <!--
 **anival-github/anival-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
