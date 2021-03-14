@@ -9,6 +9,8 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED&#032;COMPONENTS-090909?style=for-the-badge&logo=styled-components)
+![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=MongoDB)
 ![NODEJS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
 
 ### Mail me: anival-94@mail.ru
