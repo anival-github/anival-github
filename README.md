@@ -4,8 +4,7 @@
 ### Languages and Technologies
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
-
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=appveyor)
+![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=REACTJS)
 
 
 <!--
