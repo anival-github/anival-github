@@ -3,7 +3,7 @@
 ### Check my [CV](https://anival-github.github.io/cv/resume/)
 ### Languages and Technologies
 
-![JAVASCRIPT](https://img.shields.io/static/v1?message=JAVASCRIPT&color=yellow&style=flat&logo=appveyor)
+![JAVASCRIPT](https://img.shields.io/static/v1?message=JAVASCRIPT&color=yellow&style=flat)
 
 
 <!--
