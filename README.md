@@ -15,3 +15,4 @@
 
 ### Mail me: anival-94@mail.ru
 ### Skype: anival199
+###![LinkedIn](https://www.linkedin.com/in/valentin-a-226415208/)
