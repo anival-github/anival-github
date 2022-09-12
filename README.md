@@ -14,9 +14,9 @@
 ![NODEJS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
 
 ### Languages
-English - advanced
-Russian - native
-Polish - beginner
+#### English - advanced
+#### Russian - native
+#### Polish - beginner
 
 ### Mail me: anival-94@mail.ru
 ### Skype: anival199
