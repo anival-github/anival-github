@@ -1,7 +1,7 @@
 # 👋 Hi, my name is **Valentin Anikin**!
-## I'm a *Front-end developer* from Gdańsk, Poland.
+## I'm a *Front-end developer* from Belarus, currently live in Gdańsk, Poland.
 ### You can find my CV [here](https://anival-github.github.io/cv/resume/)
-### Languages and Technologies
+### Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux)
@@ -12,6 +12,11 @@
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED&#032;COMPONENTS-090909?style=for-the-badge&logo=styled-components)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=MongoDB)
 ![NODEJS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
+
+### Languages
+English - advanced
+Russian - native
+Polish - beginner
 
 ### Mail me: anival-94@mail.ru
 ### Skype: anival199
