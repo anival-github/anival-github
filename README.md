@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Valentin Anikin**
-## I'm a *Front-end developer* from Belarus, currently live in Gdańsk, Poland.
+## I'm a *Full-Stack developer*, currently live in Gdańsk, Poland.
 ### You can find my CV [here](https://anival-github.github.io/cv/resume/)
 ### Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
