@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Valentin Anikin**
-## I'm a *Full-Stack developer*, currently live in Gdańsk, Poland.
+## I'm a *Full-Stack developer*, located Gdańsk, Poland
 ### You can find my CV [here](https://anival-github.github.io/cv/resume/)
 ### Technologies
 
