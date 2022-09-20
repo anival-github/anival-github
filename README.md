@@ -19,7 +19,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
-
+![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
 
 
 ### Languages
