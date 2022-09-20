@@ -3,10 +3,6 @@
 ### You can find my CV [here](https://anival-github.github.io/cv/resume/)
 ### Technologies
 
-Strong: ES6, Typescript, React, Redux, Webpack, NodeJS, Express, MongoDB, Git, GitHub, HTML/CSS, SASS.
-Knowledgeable: Docker, NestJS, Angular, MySQL, PostgreSQL, TypeORM, AWS.
-
-
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JavaScript)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=React)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux)
@@ -22,6 +18,7 @@ Knowledgeable: Docker, NestJS, Angular, MySQL, PostgreSQL, TypeORM, AWS.
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
 
 
 
