@@ -12,6 +12,9 @@
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED&#032;COMPONENTS-090909?style=for-the-badge&logo=styled-components)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=MongoDB)
 ![NODEJS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
+![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
+
+
 
 ### Languages
 #### English - advanced
