@@ -13,6 +13,8 @@
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=MongoDB)
 ![NODEJS](https://img.shields.io/badge/-NODE.JS-090909?style=for-the-badge&logo=Node.js)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
+
 
 
 
