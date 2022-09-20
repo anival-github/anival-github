@@ -20,6 +20,7 @@ Knowledgeable: Docker, NestJS, Angular, MySQL, PostgreSQL, TypeORM, AWS.
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 
 
 
