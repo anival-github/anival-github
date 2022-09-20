@@ -20,7 +20,8 @@
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazonaws)
 
 ### Languages
 #### English - advanced
